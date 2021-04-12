@@ -1,0 +1,28 @@
+*{
+    font-family: Josefin Sans;
+}
+
+#headie{
+    height:58px;
+    border-bottom: 10px solid lightblue;
+}
+
+body{
+    background-color:rgba(52,58,64);
+}
+
+.nav-tabs{
+    float: right;
+}
+
+#dash-pic{
+    height:520px;
+}
+
+#smbox-pics{
+    height:500px;
+}
+
+.card{
+background-color:lightblue;
+}
