@@ -11,6 +11,10 @@ body{
     background-color:rgba(52,58,64);
 }
 
+.card-title{
+   text-shadow: 2px 2px white;
+}
+
 .nav-tabs{
     float: right;
 }
@@ -25,4 +29,8 @@ body{
 
 .card{
 background-color:lightblue;
+}
+
+.card:hover{
+    box-shadow: ;
 }
